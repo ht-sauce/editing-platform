@@ -1,0 +1,6 @@
+packages:
+  - 'ht-ui/**' # 存放编写的组件的
+  - docs # 文档
+  - page-edit # 页面编辑器
+  - test # 测试模块
+  - play # 测试组件
